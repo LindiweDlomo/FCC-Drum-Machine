@@ -42,7 +42,7 @@ const audioClips: AudioClip[] = [
   },
   {
    keytrigger:"X",
-   url: "https://s3.amazonaws.com/freecodecamp/drums/RP4_Kick.mp3",
+   url: "https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3",
    description: "Kick",
   },
   {
